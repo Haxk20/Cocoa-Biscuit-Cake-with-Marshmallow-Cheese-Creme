@@ -1,9 +1,15 @@
+![Build-Status](img/build.png)
+
 # Cocoa-Biscuit Cake with Marshmallow-Cheese Creme
 
 #### Table of contents
 [Ground](#ground)  
 [Marshmallow-Cheese Creme](#marshmallow-cheese-creme)  
 [Installation on Linux](#installation-on-linux)
+
+---
+
+![Logo](logo/Cake.svg?sanitize=true)
 
 ## Ground:  
 
